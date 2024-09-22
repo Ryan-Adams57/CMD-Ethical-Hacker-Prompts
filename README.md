@@ -1,3 +1,3 @@
-# Cool CMD Commands
+# Cool CMD Commands.
 
 Windows CMD Commands.
