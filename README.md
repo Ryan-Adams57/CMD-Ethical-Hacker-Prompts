@@ -1,2 +1,3 @@
-# CMD-Ethical-Hacker-Prompts
-Ethical Hacking Scripts.
+# Cooll CMD Commands
+
+Windows CMD Commands.
