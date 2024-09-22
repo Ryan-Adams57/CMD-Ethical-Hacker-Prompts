@@ -2,8 +2,8 @@
 
 Windows CMD Commands.
 
-(color a & curl parrot.live)
+Enter the following:
 
-Color a
+color a & curl parrot.live
 
-dir/s
+Color a dir/s (First enter "Color a" hit enter. Then type in "dir/s" hit enter.
